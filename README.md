@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Senior Data Analyst @ **Altia**
 - ⚡ What I like to do: I like so much **movies, basketball, fashion, RnB** ...and **data** of course 😏
 - 📥 You can reach me @ https://www.linkedin.com/in/davidserantes/
-- 🫂 Don't forget to follow!  [![GitHub followers](https://img.shields.io/github/followers/dserantes?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
+- 🫂 Don't forget to follow! &ensp;  [![GitHub followers](https://img.shields.io/github/followers/dserantes?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
 
 <!---
 dserantes/dserantes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
