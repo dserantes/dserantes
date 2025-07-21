@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A Data Science & Analytics enthusiast from Spain!</h3>
 
-- 🔭 I’m currently working as a Senior Data Analyst @ **Altia**
+- 🔭 I’m currently working as a Product Owner @ **Stradivarius**
 - ⚡ What I like to do: I like so much **movies, basketball, fashion, RnB** ...and **data** of course 😏
 - 🫂 Don't forget to follow! &ensp;
 
