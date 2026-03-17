@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdserantes&label=visitors&countColor=%23263759&style=flat) <a href="https://www.linkedin.com/in/davidserantes/"><img src="https://img.shields.io/badge/-@dserantes-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/davidserantes/" alt="LinkedIn Badge"></a> <a href="https://open.spotify.com/user/11139141236"><img src="https://img.shields.io/badge/-@dave-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/11139141236" alt="Spotify Badge"></a> [![GitHub followers](https://img.shields.io/github/followers/dserantes?label=Follow&style=social)](https://github.com/dserantes/?tab=follow)
 
 
-<h3 align="center">A Data Science & Analytics enthusiast from Spain!</h3>
+<h3 align="center">A data enthusiast from Spain!</h3>
 
-- 🔭 I’m currently working as a Senio rProduct Owner @ **Stradivarius**
+- 🔭 I’m currently working as a Senior Product Owner @ **Stradivarius**
 - ⚡ What I like to do: I like so much **movies, basketball, fashion, RnB** ...and **data** of course 😏
 - 🫂 Don't forget to follow! &ensp;
 
